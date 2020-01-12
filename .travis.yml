@@ -1,0 +1,14 @@
+language: node_js
+
+node_js:
+  - "node"  # Just install the latest node.
+
+before_install:
+  - chmod a+x ./scripts/*.sh
+
+install:
+  - ./scripts/setup.sh
+
+script:
+  - ./scripts/start_forever.sh
+  - ./scripts/stop_forever.sh
