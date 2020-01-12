@@ -13,7 +13,7 @@
 // Manual config.
 const manual_name = "CCosQuick";
 
-const header_color = '#72C0DE';
+const header_color = '#4D9EBD';
 const arrow_color = '#19E3B1';
 
 // Version config.
@@ -42,8 +42,8 @@ const intro_content = 'intro';
 const search_content = 'search';
 
 // Homepage Link
-const homepage_url = "https://github.com/jcs090218/API-Reference-Template";  // The actual link to your homepage.
-const homepage_text = "api-ref-tem.github";  // Text to show on the browser
+const homepage_url = "https://github.com/jcs090218/CCosQuick";  // The actual link to your homepage.
+const homepage_text = "CCosQuick.github";  // Text to show on the browser
 
 
 // Content extension to load.
