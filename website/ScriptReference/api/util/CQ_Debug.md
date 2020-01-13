@@ -10,11 +10,11 @@ Provide debug and logger utilities.
 <td>Log the information message.</td>
 </tr>
 <tr>
-<td>log</td>
+<td>warn</td>
 <td>Log the warning message.</td>
 </tr>
 <tr>
-<td>log</td>
+<td>error</td>
 <td>Log the error message.</td>
 </tr>
 </table>
