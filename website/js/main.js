@@ -253,9 +253,13 @@
   function initPage() {
     initGlobalPage();
     if (checkPageFound(manualPage)) {
+      document.title = manual_name + ' - Scripting Manual';
       initManulPage();
     } else if (checkPageFound(scriptReferencePage)) {
+      document.title = manual_name + ' - Scripting API';
       initScriptReferencePage();
+    } else {
+      console.log("[ERROR] This page section doesn't exists");
     }
   }
 
