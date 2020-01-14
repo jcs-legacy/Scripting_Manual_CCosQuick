@@ -7,6 +7,10 @@ Play animation frame by frame with the same interval in SPF.
 <table>
 <tr>
 <td>sprite</td>
+<td>Sprite renderer that will display our sprite frame.</td>
+</tr>
+<tr>
+<td>loop</td>
 <td>Loop for this animation.</td>
 </tr>
 <tr>
