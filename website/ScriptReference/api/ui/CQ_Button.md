@@ -11,7 +11,7 @@ Base button for easier implementation.
 </tr>
 </table>
 
-### Exampls
+## Exampls
 
 ```js
 export default class Example extends CQ_Button {
