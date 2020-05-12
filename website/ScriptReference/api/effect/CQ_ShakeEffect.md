@@ -6,26 +6,14 @@ Note the variables will be documented inside the class.
 
 ## Variables
 
-<table>
-<tr>
-<td>repeatOverride</td>
-<td>Override the effect even the effect aren't done displaying.</td>
-</tr>
-<tr>
-<td>shakeTime</td>
-<td>Time applied to the shake.</td>
-</tr>
-<tr>
-<td>shakeMargin</td>
-<td>Shake impulse margin.</td>
-</tr>
-</table>
+| Name | Description |
+|:---|:---|
+| repeatOverride | Override the effect even the effect aren't done displaying. |
+| shakeTime | Time applied to the shake. |
+| shakeMargin | Shake impulse margin. |
 
 ## Functions
 
-<table>
-<tr>
-<td>doSake</td>
-<td>Do the shake effect.</td>
-</tr>
-</table>
+| Name | Description |
+|:---|:---|
+| doSake | Do the shake effect. |

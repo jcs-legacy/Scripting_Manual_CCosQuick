@@ -4,20 +4,11 @@ Provide debug and logger utilities.
 
 ## Functions
 
-<table>
-<tr>
-<td>log</td>
-<td>Log the information message.</td>
-</tr>
-<tr>
-<td>warn</td>
-<td>Log the warning message.</td>
-</tr>
-<tr>
-<td>error</td>
-<td>Log the error message.</td>
-</tr>
-</table>
+| Name | Description |
+|:---|:---|
+| log | Log the information message. |
+| warn | Log the warning message. |
+| error | Log the error message. |
 
 ## Examples
 

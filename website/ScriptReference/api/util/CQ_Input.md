@@ -4,48 +4,20 @@ Input handle.
 
 ## Variables
 
-<table>
-<tr>
-<td>mousePosition</td>
-<td>Position of the mouse on the screen.</td>
-</tr>
-</table>
+| Name | Description |
+|:---|:---|
+| mousePosition | Position of the mouse on the screen. |
 
 ## Functions
 
-<table>
-<tr>
-<td>cleanInputBuffer</td>
-<td>
-Clean the input buffer every frame. Remember to call this in order to get the 
-correct output for the event loop.
-</td>
-</tr>
-<tr>
-<td>getMouseButtonUp</td>
-<td>Check if a mouse button click is up this frame.</td>
-</tr>
-<tr>
-<td>getMouseButtonDown</td>
-<td>Check if a mouse button click in this frame.</td>
-</tr>
-<tr>
-<td>getMouseButton</td>
-<td>Check if a mouse button is pressed at the moment.</td>
-</tr>
-<tr>
-<td>getKeyUp</td>
-<td>Check if the key is up this frame.</td>
-</tr>
-<tr>
-<td>getKeyDown</td>
-<td>Check if the key is down this frame.</td>
-</tr>
-<tr>
-<td>getKey</td>
-<td>Check if the key is held at the moment.</td>
-</tr>
-</table>
+| Name | Description |
+|:---|:---|
+| cleanInputBuffer | Clean the input buffer every frame. Remember to call this in order to get the correct output for the event loop. |
+| getMouseButtonUp | Check if a mouse button click is up this frame. |
+| getMouseButtonDown | Check if a mouse button click in this frame. |
+| getKeyUp | Check if the key is up this frame. |
+| getKeyDown | Check if the key is down this frame. |
+| getKey | Check if the key is held at the moment. |
 
 ## Examples
 

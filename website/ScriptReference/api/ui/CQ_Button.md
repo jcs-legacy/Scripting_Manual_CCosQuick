@@ -4,12 +4,9 @@ Base button for easier implementation.
 
 ## Functions
 
-<table>
-<tr>
-<td>onclick</td>
-<td>Callback for this button when is clicked.</td>
-</tr>
-</table>
+| Name | Description |
+|:---|:---|
+| onclick | Callback for this button when is clicked. |
 
 ## Exampls
 
