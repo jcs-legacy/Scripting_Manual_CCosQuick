@@ -10,3 +10,4 @@ Scripting manual website for CCosQuick API.
 
 * *Website* : [Scripting-Reference-CCosQucik](http://www.jcs-profile.com:3005)
 * *CCosQuick* : https://github.com/jcs090218/CCosQuick
+c
